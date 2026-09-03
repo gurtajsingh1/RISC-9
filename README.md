@@ -8,6 +8,6 @@ The following diagram shows the high-level architecture of the RISC-9 processor.
 
 ## 📁 Project Structure
 
-The following diagram represents the organization of the RISC-9 project:
+## Diagram represents the organization of the RISC-9 project:
 
 ![RISC-9 Project Structure](Documentation/Structure.png)
