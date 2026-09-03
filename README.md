@@ -4,29 +4,6 @@
 
 ---
 
-## Table of Contents
-
-* [Overview](#overview)
-* [Objectives](#objectives)
-* [Architecture](#architecture)
-* [Project Structure](#project-structure)
-* [Processor Components](#processor-components)
-* [Instruction Execution](#instruction-execution)
-* [RISC-V Instruction Support](#risc-v-instruction-support)
-* [Program Execution Flow](#program-execution-flow)
-* [Simulation and Verification](#simulation-and-verification)
-* [Software and Tools](#software-and-tools)
-* [Running the Project](#running-the-project)
-* [Project Outcome](#project-outcome)
-* [Current Capabilities](#current-capabilities)
-* [Current Limitations](#current-limitations)
-* [Future Development](#future-development)
-* [Learning Outcomes](#learning-outcomes)
-* [Author](#author)
-
----
-
-
 ## Architecture
 
 The following diagram shows the high-level architecture of the RISC-9 processor.
