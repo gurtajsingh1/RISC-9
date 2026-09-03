@@ -1,4 +1,31 @@
-# RISC-9
+# RISC-9 — A 32-Bit RISC-V Processor in SystemVerilog
+
+> A simple single-cycle RISC-V processor designed and implemented in SystemVerilog to explore instruction execution, processor datapath design, control logic, and hardware simulation.
+
+---
+
+## Table of Contents
+
+* [Overview](#overview)
+* [Objectives](#objectives)
+* [Architecture](#architecture)
+* [Project Structure](#project-structure)
+* [Processor Components](#processor-components)
+* [Instruction Execution](#instruction-execution)
+* [RISC-V Instruction Support](#risc-v-instruction-support)
+* [Program Execution Flow](#program-execution-flow)
+* [Simulation and Verification](#simulation-and-verification)
+* [Software and Tools](#software-and-tools)
+* [Running the Project](#running-the-project)
+* [Project Outcome](#project-outcome)
+* [Current Capabilities](#current-capabilities)
+* [Current Limitations](#current-limitations)
+* [Future Development](#future-development)
+* [Learning Outcomes](#learning-outcomes)
+* [Author](#author)
+
+---
+
 
 ## Architecture
 
@@ -173,33 +200,6 @@ In simple terms, RISC-9 **takes an instruction, understands what it means, gets 
 ![RISC-9 Project Structure](Documentation/Visual.png)
 
 
-# RISC-9 — A 32-Bit RISC-V Processor in SystemVerilog
-
-> A simple single-cycle RISC-V processor designed and implemented in SystemVerilog to explore instruction execution, processor datapath design, control logic, and hardware simulation.
-
----
-
-## Table of Contents
-
-* [Overview](#overview)
-* [Objectives](#objectives)
-* [Architecture](#architecture)
-* [Project Structure](#project-structure)
-* [Processor Components](#processor-components)
-* [Instruction Execution](#instruction-execution)
-* [RISC-V Instruction Support](#risc-v-instruction-support)
-* [Program Execution Flow](#program-execution-flow)
-* [Simulation and Verification](#simulation-and-verification)
-* [Software and Tools](#software-and-tools)
-* [Running the Project](#running-the-project)
-* [Project Outcome](#project-outcome)
-* [Current Capabilities](#current-capabilities)
-* [Current Limitations](#current-limitations)
-* [Future Development](#future-development)
-* [Learning Outcomes](#learning-outcomes)
-* [Author](#author)
-
----
 
 ## Overview
 
